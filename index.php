@@ -15,4 +15,5 @@ define('WP_USE_THEMES', true);
 
 /** Loads the WordPress Environment and Template */
 /** monaco commit テスト用コメント */
+/** monaco pull テスト用コメント */
 require( dirname( __FILE__ ) . '/wp-blog-header.php' );
